@@ -11,7 +11,7 @@ Descrição: Este trabalho tem como objetivo realizar um banco de dados funciona
 <p>Cada paciente tem seu cadastro feito com seu nome, RG, CPF, data de nascimento, endereço e telefone para contato. Para uma maior familiaridade com cada caso, é atribuido um dentista responsável pelo paciente. Além disso, a pessoa pode ter ou não um convênio.</p>
 <p>Para os funcionários é necessário armazenar seus dados essenciais como: nome, RG, CPF, data de nascimento, endereço e telefone; bem como dados sobre seu cargo dentro da empresa, como: função, data de admisão e salário. No caso dos dentistas, também é necessário o profissonal ter registro no Conselho Regional de Odontologia (CRO).</p>
 <p>Para receber um atendimento a pessoa deve ligar ou ir até o local a realizar um agendamento com a secretária, esta que anotara na agenda do dentista responsável uma data e um horário. Um atendimento também pode ser marcado pelo destita como retorno, por exemplo. Cada atendimento é agrupado em um histórico vinculado a um determinado paciente.</p>
-<p>A clínica realiza diversos tipos de tratamentos, cada um tendo um valor. Alguns dos tratamentos oferecidos são: restauração, exodontia, profilaxia e clareamento. Um tratamento pode ser feito ou não por uma higienista, como no caso da limpeza, porém é necessário que o dentista responsável pelo paciente esteja presente.</p>
+<p>A clínica realiza diversos tipos de tratamentos, cada um tendo um valor. Alguns dos tratamentos oferecidos são: restauração, exodontia, profilaxia e clareamento.
 <p>Caso necessário, o dentista pode visualizar através de buscas, relatórios para saber sua agenda, ou até mesmo, os tipos de procedimentos que determinado paciente já realizou</p>
 <p>Os pagamentos são feitos por atendimento, sendo somado os valores dos procedimentos realizados. As formas de pagamento são à vista (dinheiro e/ou pix), pelo cartão (crédito(sendo possível parcelar) ou débito) ou pelo plano de convênio.</p>
  
@@ -19,7 +19,7 @@ Descrição: Este trabalho tem como objetivo realizar um banco de dados funciona
 ### Entidades
 
 - Ficha de pacientes
-- Ficha de funcionários: dentistas, secretaria, serviços gerais, higienista, assistente
+- Ficha de funcionários: dentistas, secretaria, serviços gerais, assistente
 - Ficha de atendimento
 - Tratamentos 
 - Endereço
