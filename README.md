@@ -87,5 +87,5 @@ Descrição: Este trabalho tem como objetivo realizar um banco de dados funciona
 - Historico
 - Agenda
 
-
+[Link DER - Lucidchar](https://lucid.app/lucidchart/34535290-0ab0-4b0e-8398-63a4e77c680c/edit?viewport_loc=-22%2C-63%2C1707%2C811%2C0_0&invitationId=inv_4a6fa071-3d2c-4ad0-8e58-d4ed4171b2cb#)
 
