@@ -87,6 +87,8 @@ Descrição: Este trabalho tem como objetivo realizar um banco de dados funciona
 - Historico
 - Agenda
 
-[Link DER - Lucidchar](https://lucid.app/lucidchart/34535290-0ab0-4b0e-8398-63a4e77c680c/edit?viewport_loc=-22%2C-63%2C1707%2C811%2C0_0&invitationId=inv_4a6fa071-3d2c-4ad0-8e58-d4ed4171b2cb#)
+[Link DER - Lucidchart](https://lucid.app/lucidchart/34535290-0ab0-4b0e-8398-63a4e77c680c/edit?viewport_loc=-22%2C-63%2C1707%2C811%2C0_0&invitationId=inv_4a6fa071-3d2c-4ad0-8e58-d4ed4171b2cb#)
 
 [Normas de modelo de trabalho](https://cpaq.ufms.br/files/2015/12/Manual-de-TCC-e-disserta%c3%a7%c3%a3o-CPAQ_2015-final.pdf)
+
+[Relatório](https://docs.google.com/document/d/1PVSVij_mD9Wk7Evudv_OhAdMX3Gif6_4fMBisodMtHs/edit)
