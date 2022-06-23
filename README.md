@@ -92,3 +92,5 @@ Descrição: Este trabalho tem como objetivo realizar um banco de dados funciona
 [Normas de modelo de trabalho](https://cpaq.ufms.br/files/2015/12/Manual-de-TCC-e-disserta%c3%a7%c3%a3o-CPAQ_2015-final.pdf)
 
 [Relatório](https://docs.google.com/document/d/1PVSVij_mD9Wk7Evudv_OhAdMX3Gif6_4fMBisodMtHs/edit)
+
+[Modelo Relacional](https://lucid.app/lucidchart/991b43b4-cc57-4913-b64f-381823e5b01c/edit?viewport_loc=-198%2C-148%2C2678%2C1247%2C0_0&invitationId=inv_4d1c43e7-5902-4e21-bee4-521856298d4b#)
